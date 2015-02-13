@@ -1,0 +1,7 @@
+emailnotificationenabled=true
+sender={FROMADDRESS}@gmail.com
+recipients={PARENT1}@gmail.com;{PARENT2}@gmail.com
+smtpserver= smtp.gmail.com:587
+smtptls=True
+smtpuser={USERNAME}@gmail.com
+smtppassword=omgOMGomg
